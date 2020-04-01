@@ -1,2 +1,2 @@
-# Bash
-This repository contains some basic bash scripts.
+# Batch
+This repository contains some basic batch scripts.
